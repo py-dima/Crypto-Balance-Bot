@@ -1,0 +1,3 @@
+aiogram
+ccxt
+python-dotenv
